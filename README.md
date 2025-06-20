@@ -51,9 +51,6 @@ venv\Scripts\activate        # Windows
 source venv/bin/activate     # macOS/Linux
 
 3. Install Dependencies
-bash
-Kopyala
-Düzenle
 pip install -r requirement.txt
 
 4. Apply Migrations
