@@ -57,9 +57,6 @@ Düzenle
 pip install -r requirement.txt
 
 4. Apply Migrations
-bash
-Kopyala
-Düzenle
 python manage.py migrate
 
 5. Create a Superuser
